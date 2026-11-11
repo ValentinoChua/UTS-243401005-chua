@@ -5,8 +5,8 @@ Tema yang saya dapatkan adalah terdapat keluhan pada fasilitas proyektor kelas y
 
 # 2. Cara Menjalankan server, klien, dan bukti-tcp
 cara menjalan kan server : go run .\server\
-cara menjalan kan klien : go run ./klien "<alamat> lihat <id>" Atau go run ./klien "<alamat> buat <ruang> <jenis>"
-cara menjalan kan bukti-tcp : go run ./bukti-tcp <alamat>
+cara menjalan kan klien : go run ./klien (alamat) lihat (id) Atau go run ./klien (alamat) buat (ruang) (jenis)
+cara menjalan kan bukti-tcp : go run ./bukti-tcp (alamat)
 
 # 3. Endpoint
 | Metode | Path | Kode Status |

@@ -62,3 +62,4 @@ Tidak menggunakan retry : POST tidak menggunakan retry, karena ada kemungkinan j
 
 # 5. Pemakaian AI
 Project ini dibuat dengan panduan dari ChatGPT AI. ChatGPT AI membantu pengerjaan serta memberikan pertanyaan dan penjelasan terkait code serta pengetahuan umum terkait endpoint.
+https://chatgpt.com/g/g-p-6af438772fdc8191957587533bce5009-uts-pemrograman-jaringan/project

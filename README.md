@@ -8,4 +8,7 @@ cara menjalan kan server : go run .\server\
 cara menjalan kan klien : go run ./klien <alamat> lihat <id> Atau go run ./klien <alamat> buat <ruang> <jenis>
 cara menjalan kan bukti-tcp : go run ./bukti-tcp <alamat>
 
-# 3. 
+# 3. Endpoint
+| Metode | Path | Kode Status |
+| --- | --- | --- |
+| GET | /keluhan | 200 |

@@ -48,4 +48,5 @@ Jumlah percobaan : minimal 3 kali dan maksimal 5 kali
 Jeda waktu : dimulai dari 200ms dan di kali 2 hingga terakhir ke 5 kali di 1.6 detik
 Tidak menggunakan retry : POST tidak menggunakan retry, karena ada kemungkinan jika data telah di proses namun server membalas gagal dapat terjadi data terkirim lebih dari satu kali
 
-# 5.
+# 5. Pemakaian AI
+Project ini dibuat dengan panduan dari ChatGPT AI. ChatGPT AI membantu pengerjaan serta memberikan pertanyaan dan penjelasan terkait code serta pengetahuan umum terkait endpoint.
